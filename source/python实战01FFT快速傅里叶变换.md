@@ -1,6 +1,8 @@
 # python实战01FFT快速傅里叶变换
-本科小作业，快速傅里叶变换  
-python3.2   
+本科小作业，快速傅里叶变换
+
+python3.2
+
 ```
 # Copyright (C) 2011-2012 YuanJh
 # This program is free software: you can redistribute it and/or modify
