@@ -3,8 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to python_practice's documentation!
+python实战经验
 ===========================================
+python研发过程中需要用到工具，注意的坑等等
 
 .. toctree::
    :maxdepth: 2
